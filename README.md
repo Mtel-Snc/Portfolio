@@ -17,3 +17,5 @@ Other skills:
 - I can code in java (java certificate here)
 - I can do digital media (digital art such as pixel art and other graphical design)
 - Good at problem solving (small but I felt was important to put here)
+
+(files will be added as time goes on when i start to finish stuff)
